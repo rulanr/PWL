@@ -1,0 +1,11 @@
+<?php
+    if (isset($_POST['input'])) {
+        $nama1 = $_POST['nama1'];
+        $nama2 = $_POST['nama2'];
+        $nama3 = $_POST['nama3'];
+        echo "<b>Nama Anggota kelompok 1:</b> <br>";
+        echo $nama1. "<br>";
+        echo $nama2. "<br>";
+        echo $nama3. "<br>";
+    }
+?>
