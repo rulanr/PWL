@@ -24,7 +24,7 @@
 
     ?>
 
-    <h4>Selamat ya,<?php echo ($_SESSION['username']); ?> , kamu berhasil login! </h4>
+    <h4>Selamat<?php echo ($_SESSION['username']); ?> , anda berhasil login! </h4>
 
     <!-- link untuk logout -->
     <a href="logout.php">Log out</a>
