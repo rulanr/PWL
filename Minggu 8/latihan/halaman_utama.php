@@ -1,4 +1,4 @@
-<!-- bagian htmlnya -->
+<!-- bagian html-->
 <!DOCTYPE html>
 <html lang="en">
 
