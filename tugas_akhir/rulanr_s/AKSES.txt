@@ -1,4 +1,0 @@
-https://web-rulanr_store.000webhostapp.com/
-
-admin : ngadimin admin
-customer : hakim hakim 
